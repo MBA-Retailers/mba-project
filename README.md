@@ -35,10 +35,27 @@ Dataset Link : https://www.kaggle.com/datasets/aslanahmedov/market-basket-analys
 Clone the repository
 
 ```bash
-[https://github.com/TuanMinhajSeedin/Kidney-Disease-Classification-Deep-Learning-Project](https://github.com/MBA-Retailers/mba-project.git)
+https://github.com/MBA-Retailers/mba-project.git
+```
+### STEP 01- Create a conda environment after opening the repository
+
+```bash
+conda create -n mba-user python=3.9 -y
 ```
 
+```bash
+conda activate mba-user
+```
+### STEP 02- install the requirements
+```bash
+pip install -r requirements.txt
+```
 
-
-
-
+```bash
+# Finally run the following command
+streamlit run streamlitapp.py
+```
+Now,
+```bash
+open up you local host and port
+```
