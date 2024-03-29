@@ -4,9 +4,8 @@
 
 The proposed project aims to implement a comprehensive recommendation system with an MBA that retailers can easily use to influence customers through recommendation plans with forecasting capabilities. Leveraging advanced pattern mining techniques on transactional data, the system aims to uncover hidden associations between products to enhance the customer experience by increasing the sales through personalized recommendations and by forecasting future purchase behaviors.
 
-## Presentation
-
-Demo: [https://market-basket-analysis-group17.streamlit.app](https://market-basket-analysis-group17.streamlit.app)
+## App Demo
+[Click me for User App](https://kidney-tumor-identification.streamlit.app/)
 
 ## Dataset
 
