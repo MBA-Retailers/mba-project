@@ -53,7 +53,7 @@ pip install -r requirements.txt
 
 ```bash
 # Finally run the following command
-streamlit run streamlitapp.py
+streamlit run Pattern_Mining.py
 ```
 Now,
 ```bash
